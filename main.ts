@@ -1,5 +1,5 @@
 basic.showString("Start up..")
-for (let index = 0; index < 6; index++) {
+for (let index = 0; index < 2; index++) {
     basic.showLeds(`
         . . . . .
         . . . . .
@@ -142,7 +142,7 @@ for (let index = 0; index < 6; index++) {
         `)
 }
 basic.showString("Welcome")
-for (let index = 0; index < 6; index++) {
+for (let index = 0; index < 2; index++) {
     basic.showLeds(`
         . . . . .
         . . . . .
