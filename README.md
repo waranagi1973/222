@@ -9,8 +9,7 @@
 ## 使用方法
 * Aボタンで方角を表示します。
 * Bボタンで気温を表示します。
-* A&Bボタンでリアルタイムの時刻を表示します。
-* ロゴをタップして特定のネットワークに接続します。
+* A&Bボタンの機能は、特に思いつきませんでした(・_<)
 
 ## 拡張機能として使用
 
@@ -28,16 +27,4 @@ MakeCode でこのリポジトリを編集します。
 * [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
 * **読み込む** をクリックし、 **URLから読み込む...** をクリックしてください
 * **https://github.com/waranagi1973/222** を貼り付けてインポートをクリックしてください
-* (※自由研究での悪用(プロファイルをコピーし自由研究として提出する)といった行為は、不正コピーや、悪用、プログラムの盗難とするのでおやめください!!!!!!!!!)
-
-## ブロックのプレビュー
-
-この画像はマスター内の最後のコミットからのブロックコードを示しています。
-このイメージは更新に数分かかる場合があります。
-
-![生成されたブロック](https://github.com/waranagi1973/222/raw/master/.github/makecode/blocks.png)
-
-#### メタデータ (検索、レンダリングに使用)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+* (※自由研究での悪用(プロファイルをコピーし自由研究として提出する)といった行為は、不正コピーや、悪用、プログラムの盗難とするのでおやめください!!!!!!!
