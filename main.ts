@@ -1,6 +1,9 @@
 input.onButtonPressed(Button.A, function () {
     basic.showString("HOUGAKU")
-    basic.showString("" + (input.compassHeading()))
+    while (!(input.logoIsPressed())) {
+        basic.showNumber(input.compassHeading())
+    }
+    break;
 })
 input.onButtonPressed(Button.AB, function () {
     basic.showString("Lite Mode")
@@ -20,4 +23,5 @@ input.onButtonPressed(Button.B, function () {
     basic.showString("KION/OND")
     basic.showString("" + (input.temperature()))
 })
-basic.showString("Pless Enter For A/B/A&B Boton or logo taps!!")
+basic.showString("Hello")
+radio.setGroup(1)
